@@ -8,12 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * Implementations of {@link CustomerService} interface.
- *
- * @author Eugene Suleimanov
- * @version 1.0
- */
+
 
 @Slf4j
 @Service
