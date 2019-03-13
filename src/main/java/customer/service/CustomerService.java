@@ -4,12 +4,7 @@ import customer.model.Customer;
 
 import java.util.List;
 
-/**
- * Service interface for {@link Customer} class.
- *
- * @author Eugene Suleimanov
- * @version 1.0
- */
+
 
 public interface CustomerService {
 
